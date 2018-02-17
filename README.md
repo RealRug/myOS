@@ -1,2 +1,2 @@
 # myOS
-This is an experimental lightweight RTOS for embedded systems.
+This is an experimental lightweight RTOS for resource-limited embedded systems.
