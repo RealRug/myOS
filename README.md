@@ -1,2 +1,2 @@
 # myOS
-This is a experimental realtime OS for embedded system
+This is an experimental lightweight RTOS for embedded systems.
